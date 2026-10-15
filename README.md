@@ -28,6 +28,7 @@ Each query for this project aimed at investigating specific aspects of data anal
 ### 1. Top Paying Data Analysts Jobs.
 Identify highest-paying roles. I filtered **data analyst position by average yearly salary and location**, focusing on **remote jobs.** 
 ![Top Paying Roles](assets/Top-Paying-Roles.png)
+
 *Bar graph visualizing the salary for the top 10 salaries for data analysis; CHATGPT generated from my SQL results.*
 
 - Highlights high paying opportunities in the field.
@@ -68,6 +69,7 @@ LIMIT 10;
 To see what skills in demand for top paying jobs, I joined job postings with skills data, providing insights what employers value for high compensation roles 
 
 ![Skill Top Paying Jobs](assets/Skill-Top-Paying-Jobs.png)
+
 *The count of skills for the top 10 paying jobs for data analysts; ChatGPT generated this graph from my SQL results*
 
 - SQL is leading with a bold count of 8.
@@ -118,6 +120,7 @@ ORDER BY
 |    3 | Python   |    **4,330** |
 |    4 | Tableau  |    **3,745** |
 |    5 | Power BI |    **2,609** |
+
 *Table of the demand for the top 5 skills in data analyst job postings*
 
 - **SQL and Excel remain fundamental**, emphasizing the need for strong foundational skills in data processing and spreadsheet manipulation.
@@ -155,6 +158,7 @@ LIMIT 5;
 |    8 | Jupyter       |   **$152,777** |
 |    9 | Pandas        |   **$151,821** |
 |   10 | Elasticsearch |   **$145,000** |
+
 *Table of the average salary for the top 10 paying skills for data analysts*
 
 - **High Demand for Big Data & ML Skills:** Top salaries are commanded by analysts skilled in big data technologies (PySpark, Couchbase), machine learning tools (DataRobot, Jupyter), and Python libraries (Pandas, NumPy), reflecting the industry's high valuation of data processing and predictive modeling capabilities.
