@@ -211,6 +211,7 @@ Combining analysis from demand and salary data, this query aimed to pinpoint ski
 |        7 | SAS        |           63 |    **$98,902** |
 |       61 | SQL Server |           35 |    **$97,786** |
 |        9 | JavaScript |           20 |    **$97,587** |
+
 *Table of the most optimal skills for data analyst sorted by salary*
 
 Conclusion of the most optimal skills for Data Analysts as of 2023:
