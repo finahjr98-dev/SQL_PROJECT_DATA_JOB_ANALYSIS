@@ -67,7 +67,7 @@ LIMIT 10;
 ### 2. Skills for Top Paying Jobs
 To see what skills in demand for top paying jobs, I joined job postings with skills data, providing insights what employers value for high compensation roles 
 
-![Skill Top Paying Jobs](assets\Skill-Top-Paying-Jobs.png)
+![Skill Top Paying Jobs](assets/Skill-Top-Paying-Jobs.png)
 *The count of skills for the top 10 paying jobs for data analysts; ChatGPT generated this graph from my SQL results*
 
 - SQL is leading with a bold count of 8.
